@@ -1,7 +1,5 @@
 # Ed-Donner-model-02---Google-sheet----By-Rishiraj-Purane
 
-# Ed-Donner-model-01---Chat-Model
-
 ## 🚀 How to Use This Workflow
 
 Deploy this Agentic AI architecture to your local workspace in seconds by following these quick steps:
